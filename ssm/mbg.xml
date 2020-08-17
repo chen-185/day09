@@ -24,7 +24,7 @@
 		<!-- 配置数据库连接 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
 			connectionURL="jdbc:mysql://localhost:3306/ssm" userId="root"
-			password="111">
+			password="123">
 		</jdbcConnection>
 
 		<javaTypeResolver>
